@@ -1,0 +1,18 @@
+
+# --- added to keep secrets and junk off GitHub ---
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+*.log
+.vscode/
+.idea/
